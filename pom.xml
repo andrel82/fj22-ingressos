@@ -150,5 +150,10 @@
             </plugin>
         </plugins>
     </build>
-
+    <developers>
+		<developer>
+    		<name>André Luís Dias</name>
+    		<email>andrelsds@yahoo.com.br</email>
+    	</developer>
+    </developers>
 </project>
