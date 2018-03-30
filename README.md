@@ -1,2 +1,2 @@
-Eu gosto de correr, pedalar ler e sair com amigos
+Curso fj22 Caelum, primeiros passos com Git
 Testes com Maven 24/03/2018
