@@ -1,12 +1,14 @@
 package br.com.caelum.ingresso.model;
 
+import static org.junit.Assert.*;
+
 import java.math.BigDecimal;
 import java.time.Duration;
 import java.time.LocalTime;
 
+import org.junit.Assert;
 import org.junit.Test;
 
-import junit.framework.Assert;
 
 public class SessaoTest {
 
