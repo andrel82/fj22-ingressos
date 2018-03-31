@@ -56,5 +56,6 @@ public ModelAndView salva(@Valid SessaoForm form, BindingResult result){
 		return new ModelAndView("redirect:/admin/sala/"+form.getSalaId()+"/sessoes");
 	}
 	return form(form.getSalaId(), form);
+	
 }
 }
