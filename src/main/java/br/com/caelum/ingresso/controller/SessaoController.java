@@ -35,6 +35,7 @@ public ModelAndView form(@RequestParam("salaId") Integer salaId, SessaoForm form
 	
 	modelAndView.addObject("sala",salaDao.findOne(salaId));
 	modelAndView.addObject("filmes",filmeDao.findAll());
+	modelAndView.addObject("form", form);
 	
 	return modelAndView;
 }
